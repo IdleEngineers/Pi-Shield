@@ -1,0 +1,18 @@
+
+Most of the design file in here only differ by extension. The following is a list of extensions and their associated use:
+
+Extension			Description
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ .cmp				Unknown
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+ .freeroute			Unknown
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+ .kicad_pcb			PCB Layout file. Used by the pcbnew PCB editor
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+ .net				Net list file associates each component and their nets 
+					to other components and the pads to be used in the PCB editor
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+ .pro				Project file. Open with KiCad to load all other associated files
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+ .sch				Schematic file. Used by Eeschema Schematic editor.
+````````````````````````````````````````````````````````````````````````````````````````````````````````

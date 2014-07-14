@@ -1,0 +1,2 @@
+The zip file is what we sent to 5pcb.com for fabrication. The screenshot shows our plot settings to generate the files in the zip. 
+
