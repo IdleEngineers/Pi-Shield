@@ -11,7 +11,7 @@ We are currently troubleshooting the problems and fixing the design for version 
 
 ## Precursor
 
-This project is just getting off the ground, so please bare with us as we develop the documentation and get the source files online. Thanks!
+This project is just getting off the ground, so please bear with us as we develop the documentation and get the source files online. Thanks!
 
 ## The Project
 
